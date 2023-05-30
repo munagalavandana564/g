@@ -1,0 +1,10 @@
+body{
+    background-image: url(g.jpg);
+    background-size: cover;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+    color: rgb(242, 229, 229);
+padding: 20px;
+}
+
